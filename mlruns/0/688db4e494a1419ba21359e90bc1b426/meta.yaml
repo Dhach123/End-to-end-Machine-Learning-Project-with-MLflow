@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/688db4e494a1419ba21359e90bc1b426/artifacts
+end_time: 1721204750543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688db4e494a1419ba21359e90bc1b426
+run_name: useful-loon-403
+run_uuid: 688db4e494a1419ba21359e90bc1b426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721204737225
+status: 3
+tags: []
+user_id: dchopda

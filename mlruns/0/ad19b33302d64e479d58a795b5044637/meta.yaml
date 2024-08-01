@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/ad19b33302d64e479d58a795b5044637/artifacts
+end_time: 1722130246007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad19b33302d64e479d58a795b5044637
+run_name: lyrical-fawn-496
+run_uuid: ad19b33302d64e479d58a795b5044637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722130241521
+status: 3
+tags: []
+user_id: chopd

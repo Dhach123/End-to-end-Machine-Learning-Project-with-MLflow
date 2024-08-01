@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/fbfbc5c41ded49099fc45767ccc80882/artifacts
+end_time: 1721834227079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbfbc5c41ded49099fc45767ccc80882
+run_name: kindly-shrew-394
+run_uuid: fbfbc5c41ded49099fc45767ccc80882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721834217028
+status: 3
+tags: []
+user_id: dchopda

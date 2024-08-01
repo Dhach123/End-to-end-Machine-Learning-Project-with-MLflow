@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/69747d38b40c423c9bca947a1eac807a/artifacts
+end_time: 1722131106577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69747d38b40c423c9bca947a1eac807a
+run_name: spiffy-foal-406
+run_uuid: 69747d38b40c423c9bca947a1eac807a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722131103386
+status: 3
+tags: []
+user_id: chopd

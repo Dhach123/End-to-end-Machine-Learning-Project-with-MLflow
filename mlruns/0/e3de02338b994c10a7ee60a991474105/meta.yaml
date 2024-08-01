@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/e3de02338b994c10a7ee60a991474105/artifacts
+end_time: 1722490683014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3de02338b994c10a7ee60a991474105
+run_name: dashing-ox-682
+run_uuid: e3de02338b994c10a7ee60a991474105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722490680096
+status: 3
+tags: []
+user_id: chopd

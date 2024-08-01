@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/21ac31c1bdab40029e6754616f90b108/artifacts
+end_time: 1721938897813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21ac31c1bdab40029e6754616f90b108
+run_name: adorable-loon-884
+run_uuid: 21ac31c1bdab40029e6754616f90b108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721938895160
+status: 3
+tags: []
+user_id: chopd

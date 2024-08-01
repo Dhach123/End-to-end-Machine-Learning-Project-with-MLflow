@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/dcbbf9c0a4754a3b96dbc5d3dc4c7d5e/artifacts
+end_time: 1722487596346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcbbf9c0a4754a3b96dbc5d3dc4c7d5e
+run_name: exultant-calf-920
+run_uuid: dcbbf9c0a4754a3b96dbc5d3dc4c7d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722487593523
+status: 3
+tags: []
+user_id: chopd

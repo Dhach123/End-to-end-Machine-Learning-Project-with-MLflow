@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/192b420b03aa48b0a399bd9fc191b41a/artifacts
+end_time: 1721935190846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 192b420b03aa48b0a399bd9fc191b41a
+run_name: nimble-sow-342
+run_uuid: 192b420b03aa48b0a399bd9fc191b41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721935188075
+status: 3
+tags: []
+user_id: chopd

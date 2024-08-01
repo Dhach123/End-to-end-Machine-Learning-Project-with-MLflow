@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/b08e66513afd4729910723e8b4a820bf/artifacts
+end_time: 1721461422239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b08e66513afd4729910723e8b4a820bf
+run_name: redolent-fawn-398
+run_uuid: b08e66513afd4729910723e8b4a820bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721461408946
+status: 3
+tags: []
+user_id: dchopda

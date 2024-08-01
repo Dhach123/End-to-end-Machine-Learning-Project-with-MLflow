@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/85506ca0b42b43f0bfb735975953a829/artifacts
+end_time: 1721934497080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85506ca0b42b43f0bfb735975953a829
+run_name: masked-penguin-802
+run_uuid: 85506ca0b42b43f0bfb735975953a829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721934481842
+status: 3
+tags: []
+user_id: chopd

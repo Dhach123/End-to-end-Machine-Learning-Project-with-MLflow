@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/a299ee9d017445c49b4a12abbcb28e7e/artifacts
+end_time: 1721156798220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a299ee9d017445c49b4a12abbcb28e7e
+run_name: resilient-ant-993
+run_uuid: a299ee9d017445c49b4a12abbcb28e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721156785877
+status: 3
+tags: []
+user_id: dchopda

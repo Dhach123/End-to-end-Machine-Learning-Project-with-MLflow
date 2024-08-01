@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/f6bbaba41af74a489f7798c3988ccbb4/artifacts
+end_time: 1721945862513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6bbaba41af74a489f7798c3988ccbb4
+run_name: agreeable-vole-54
+run_uuid: f6bbaba41af74a489f7798c3988ccbb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721945859257
+status: 3
+tags: []
+user_id: chopd

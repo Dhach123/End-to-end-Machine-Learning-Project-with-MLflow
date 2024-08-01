@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/214566d5f89c460883cc6dc92a62b449/artifacts
+end_time: 1721677013083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 214566d5f89c460883cc6dc92a62b449
+run_name: delicate-finch-214
+run_uuid: 214566d5f89c460883cc6dc92a62b449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721676999576
+status: 3
+tags: []
+user_id: dchopda

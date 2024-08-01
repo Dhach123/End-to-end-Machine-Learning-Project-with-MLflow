@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/fc6271a11c9a44bbb161c62a2330b083/artifacts
+end_time: 1721939678371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc6271a11c9a44bbb161c62a2330b083
+run_name: amusing-owl-579
+run_uuid: fc6271a11c9a44bbb161c62a2330b083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721939675777
+status: 3
+tags: []
+user_id: chopd

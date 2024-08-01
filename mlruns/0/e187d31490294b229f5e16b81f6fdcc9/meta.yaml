@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/e187d31490294b229f5e16b81f6fdcc9/artifacts
+end_time: 1722077756002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e187d31490294b229f5e16b81f6fdcc9
+run_name: aged-colt-235
+run_uuid: e187d31490294b229f5e16b81f6fdcc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722077749923
+status: 3
+tags: []
+user_id: chopd

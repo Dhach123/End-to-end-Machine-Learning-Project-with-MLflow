@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/b596a1fcce384bb39fe980f692c15040/artifacts
+end_time: 1722490535331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b596a1fcce384bb39fe980f692c15040
+run_name: calm-bird-421
+run_uuid: b596a1fcce384bb39fe980f692c15040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722490532294
+status: 3
+tags: []
+user_id: chopd

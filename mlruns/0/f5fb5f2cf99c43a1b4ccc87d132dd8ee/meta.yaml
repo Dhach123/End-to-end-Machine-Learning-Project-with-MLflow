@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/f5fb5f2cf99c43a1b4ccc87d132dd8ee/artifacts
+end_time: 1721151803748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5fb5f2cf99c43a1b4ccc87d132dd8ee
+run_name: efficient-bear-928
+run_uuid: f5fb5f2cf99c43a1b4ccc87d132dd8ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721151790861
+status: 3
+tags: []
+user_id: dchopda

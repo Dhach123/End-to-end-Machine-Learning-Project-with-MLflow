@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/3e912218245c4c7bb5181d6c0981dfb3/artifacts
+end_time: 1722490401428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e912218245c4c7bb5181d6c0981dfb3
+run_name: thoughtful-shark-21
+run_uuid: 3e912218245c4c7bb5181d6c0981dfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722490398313
+status: 3
+tags: []
+user_id: chopd

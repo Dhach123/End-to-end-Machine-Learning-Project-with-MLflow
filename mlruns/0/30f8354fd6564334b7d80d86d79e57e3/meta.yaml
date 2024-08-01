@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/30f8354fd6564334b7d80d86d79e57e3/artifacts
+end_time: 1721122267770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30f8354fd6564334b7d80d86d79e57e3
+run_name: suave-flea-894
+run_uuid: 30f8354fd6564334b7d80d86d79e57e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721122257554
+status: 3
+tags: []
+user_id: dchopda

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/7210e91f70604ab182cd1168555f1549/artifacts
+end_time: 1722487325707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7210e91f70604ab182cd1168555f1549
+run_name: able-grouse-354
+run_uuid: 7210e91f70604ab182cd1168555f1549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722487322866
+status: 3
+tags: []
+user_id: chopd

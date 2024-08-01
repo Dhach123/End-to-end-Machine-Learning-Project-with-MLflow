@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/1f9d030425eb472fb19ebcc4ee924e8b/artifacts
+end_time: 1721676927182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f9d030425eb472fb19ebcc4ee924e8b
+run_name: dazzling-smelt-835
+run_uuid: 1f9d030425eb472fb19ebcc4ee924e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721676910272
+status: 3
+tags: []
+user_id: dchopda

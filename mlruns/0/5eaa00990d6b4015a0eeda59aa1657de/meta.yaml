@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/5eaa00990d6b4015a0eeda59aa1657de/artifacts
+end_time: 1721906074570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eaa00990d6b4015a0eeda59aa1657de
+run_name: skittish-hawk-793
+run_uuid: 5eaa00990d6b4015a0eeda59aa1657de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721906062172
+status: 3
+tags: []
+user_id: dchopda

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/4f06fe3dcf784f9b835fe23c3a85d66b/artifacts
+end_time: 1722130420965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f06fe3dcf784f9b835fe23c3a85d66b
+run_name: inquisitive-dove-591
+run_uuid: 4f06fe3dcf784f9b835fe23c3a85d66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722130417864
+status: 3
+tags: []
+user_id: chopd

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/0a9dcd8c325e458fa4fc4cfd02f43d52/artifacts
+end_time: 1721938228342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a9dcd8c325e458fa4fc4cfd02f43d52
+run_name: upset-dog-781
+run_uuid: 0a9dcd8c325e458fa4fc4cfd02f43d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721938219454
+status: 3
+tags: []
+user_id: chopd

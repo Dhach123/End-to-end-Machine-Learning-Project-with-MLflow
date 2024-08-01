@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/3b047ce8cda84a439d1601f22829de9e/artifacts
+end_time: 1722523731105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b047ce8cda84a439d1601f22829de9e
+run_name: likeable-carp-600
+run_uuid: 3b047ce8cda84a439d1601f22829de9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722523724852
+status: 3
+tags: []
+user_id: chopd

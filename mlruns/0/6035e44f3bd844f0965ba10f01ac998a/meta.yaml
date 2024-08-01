@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/6035e44f3bd844f0965ba10f01ac998a/artifacts
+end_time: 1721461799964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6035e44f3bd844f0965ba10f01ac998a
+run_name: bright-crow-200
+run_uuid: 6035e44f3bd844f0965ba10f01ac998a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721461788759
+status: 3
+tags: []
+user_id: dchopda
