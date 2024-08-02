@@ -71,3 +71,23 @@ export MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d
 
 
 
+AZURE-CICD-Deployment-with-Github-Actions
+STEP1- CONTAINER REGISTRIES:
+salesbigmart
+Save pass:
+rfVraKB8cNHIMATgwH/jGMWzFqsl/j94KbmvCusGJC+ACRDGxdCz
+
+STEP2- WEB APP FOR CONTAINERS
+
+Run from terminal:
+docker build -t salesbigmart.azurecr.io/mltest:latest .
+
+docker login salesbigmart.azurecr.io.azurecr.io
+
+docker push salesbigmart.azurecr.io/mltest:latest
+
+Deployment Steps:
+Build the Docker image of the Source Code
+Push the Docker image to Container Registry
+Launch the Web App Server in Azure
+Pull the Docker image from the container registry to Web App server and run
