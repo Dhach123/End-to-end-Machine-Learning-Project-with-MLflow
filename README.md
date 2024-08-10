@@ -82,7 +82,7 @@ STEP2- WEB APP FOR CONTAINERS
 Run from terminal:
 docker build -t salesbigmart.azurecr.io/mltest:latest .
 
-docker login salesbigmart.azurecr.io.azurecr.io
+docker login salesbigmart.azurecr.io   WINPTY
 
 docker push salesbigmart.azurecr.io/mltest:latest
 
