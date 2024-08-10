@@ -64,6 +64,7 @@ export MLFLOW_TRACKING_PASSWORD=xxx
 
 
 AZURE-CICD-Deployment-with-Github-Actions
+
 STEP1- CONTAINER REGISTRIES:
 salesbigmart
 Save pass:
