@@ -1,13 +1,4 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
-MLFLOW_TRACKING_URI=https://dagshub.com/Dhach123/End-to-end-Machine-Learning-Project-with-MLflow.mlflow MLFLOW_TRACKING_USERNAME=Dhach123 MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d python script.py
 
-Run this to export as env variables:
-
-export MLFLOW_TRACKING_URI=https://dagshub.com/Dhach123/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
-
-export MLFLOW_TRACKING_USERNAME=Dhach123
-
-export MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d
 
 ## Workflows
 Update config.yaml
@@ -32,6 +23,7 @@ source ~/anaconda3/etc/profile.d/conda.sh
  virtualenv mlproj
 conda activate mlproj
 . mlproj/scripts/activate  
+
 1)python -m venv mlproj   old
 2)mlproj\Scripts\activate  old  
 
@@ -55,8 +47,8 @@ mlflow ui
 # dagshub
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Dhach123/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
-MLFLOW_TRACKING_USERNAME=Dhach123
-MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d
+MLFLOW_TRACKING_USERNAME=xxx
+MLFLOW_TRACKING_PASSWORD=xxx
 python script.py
 
 
@@ -65,9 +57,9 @@ Run this to export as env variables:
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/Dhach123/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
 
-export MLFLOW_TRACKING_USERNAME=Dhach123 
+export MLFLOW_TRACKING_USERNAME=xxx 
 
-export MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d
+export MLFLOW_TRACKING_PASSWORD=xxx
 
 
 
@@ -75,7 +67,7 @@ AZURE-CICD-Deployment-with-Github-Actions
 STEP1- CONTAINER REGISTRIES:
 salesbigmart
 Save pass:
-rfVraKB8cNHIMATgwH/jGMWzFqsl/j94KbmvCusGJC+ACRDGxdCz
+xxxxxxx
 
 STEP2- WEB APP FOR CONTAINERS
 
@@ -91,3 +83,4 @@ Build the Docker image of the Source Code
 Push the Docker image to Container Registry
 Launch the Web App Server in Azure
 Pull the Docker image from the container registry to Web App server and run
+Deployement done. 
